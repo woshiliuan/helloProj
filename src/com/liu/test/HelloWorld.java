@@ -10,13 +10,6 @@ public class HelloWorld {
         A a = new A();
         B b = new B();
         A ba = new B();
-        System.out.println("1-------------");
-        System.out.println(A.class.isAssignableFrom(a.getClass()));
-        System.out.println(B.class.isAssignableFrom(b.getClass()));
-        System.out.println(A.class.isAssignableFrom(b.getClass()));
-        System.out.println(B.class.isAssignableFrom(a.getClass()));
-        System.out.println(A.class.isAssignableFrom(ba.getClass()));
-        System.out.println(B.class.isAssignableFrom(ba.getClass()));
         System.out.println("2-------------");
         System.out.println(a.getClass().isAssignableFrom(A.class));
         System.out.println(b.getClass().isAssignableFrom(B.class));
