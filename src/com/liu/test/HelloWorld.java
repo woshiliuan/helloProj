@@ -18,6 +18,15 @@ public class HelloWorld {
         System.out.println(A.class.isAssignableFrom(ba.getClass()));
         System.out.println(B.class.isAssignableFrom(ba.getClass()));
         System.out.println("2-------------");
+        System.out.println(a.getClass().isAssignableFrom(A.class));
+        System.out.println(b.getClass().isAssignableFrom(B.class));
+        System.out.println(a.getClass().isAssignableFrom(B.class));
+        System.out.println(b.getClass().isAssignableFrom(A.class));
+        System.out.println(ba.getClass().isAssignableFrom(A.class));
+        System.out.println(ba.getClass().isAssignableFrom(B.class));
+        System.out.println("3-------------");
+        System.out.println(Object.class.isAssignableFrom(b.getClass()));
+        System.out.println(Object.class.isAssignableFrom("abc".getClass()));
         System.out.println("4-------------");
         System.out.println("a".getClass().isAssignableFrom(Object.class));
         System.out.println("abc".getClass().isAssignableFrom(Object.class));
