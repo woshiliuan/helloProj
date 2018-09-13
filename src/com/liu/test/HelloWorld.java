@@ -16,7 +16,7 @@ public class HelloWorld {
         System.out.println(a.getClass().isAssignableFrom(B.class));
         System.out.println(b.getClass().isAssignableFrom(A.class));
         System.out.println(ba.getClass().isAssignableFrom(A.class));
-        System.out.println("testtest")
+        System.out.println("testtest");
 
     }
 }
