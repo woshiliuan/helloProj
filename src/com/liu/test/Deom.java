@@ -10,7 +10,7 @@ public class Deom {
         System.out.println("three");
         "test".substring(0,1);
         "good".substring(0,1);
-        System.out.println("six");
+        System.out.println("four");
     }
 
     public static void f2() {
