@@ -13,11 +13,6 @@ public class Deom {
     }
 
     public static void f2() {
-        for(char c = 0; c < 128; c++) {
-            if(Character.isLowerCase(c)) {
-                System.out.println("value: " + (int) c + " character: " + c);
-            }
-        }
         f1();
     }
 
