@@ -7,10 +7,9 @@ class B extends A {
 }
 public class HelloWorld {
     public static void main(String[] args) {
-        A a = new A();
         System.out.println("testtest");
         System.out.println("testtest");
-        B b = new B();
+        System.out.println("testtest");
         A ba = new B();
     }
 }
