@@ -11,6 +11,7 @@ public class Deom {
         "test".substring(0,1);
         "good".substring(0,1);
         System.out.println("six");
+        System.out.println("six123");
     }
 
     public static void f2() {
