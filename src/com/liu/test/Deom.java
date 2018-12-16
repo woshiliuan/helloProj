@@ -13,6 +13,7 @@ public class Deom {
         System.out.println("six");
         System.out.println("six123");
         System.out.println("master add 2");
+         System.out.println("master add 4");
     }
 
     public static void f2() {
