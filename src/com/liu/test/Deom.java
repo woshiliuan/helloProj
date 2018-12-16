@@ -12,6 +12,7 @@ public class Deom {
         "good".substring(0,1);
         System.out.println("six");
         System.out.println("six123");
+        System.out.println("master add 2");
     }
 
     public static void f2() {
