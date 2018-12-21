@@ -26,5 +26,6 @@ public class Deom {
         f1();
         f2();
         System.out.println("add test11");
+        System.out.println("add test22");
     }
 }
