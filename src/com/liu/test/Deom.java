@@ -14,8 +14,6 @@ public class Deom {
         System.out.println("six123");
         System.out.println("branch1");
         System.out.println("branch2");
-        System.out.println("master add 2");
-         System.out.println("master add 4");
     }
 
     public static void f2() {
@@ -25,6 +23,9 @@ public class Deom {
     public static void main(String[] args) {
         f1();
         f2();
-        System.out.println("add test11");
+        System.out.println(111);
+        System.out.println(222);
+        System.out.println(333);
+        System.out.println(444);
     }
 }
