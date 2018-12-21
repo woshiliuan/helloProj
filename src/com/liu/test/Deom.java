@@ -14,6 +14,8 @@ public class Deom {
         System.out.println("six123");
         System.out.println("branch1");
         System.out.println("branch2");
+        System.out.println("master add 2");
+         System.out.println("master add 4");
     }
 
     public static void f2() {
