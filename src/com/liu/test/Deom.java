@@ -8,6 +8,7 @@ public class Deom {
         System.out.println(99999);
         System.out.println(88888);
         System.out.println("ttttt");
+        System.out.println("444444ssss");
         System.out.println(555555);
     }
 
