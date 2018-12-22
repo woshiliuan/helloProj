@@ -6,6 +6,7 @@ package com.liu.test;
 public class Deom {
     public static  void f1() {
          System.out.println(11111);
+        System.out.println(22222);
     }
 
     public static void f2() {
