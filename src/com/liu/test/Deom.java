@@ -7,7 +7,7 @@ public class Deom {
     public static  void f1() {
         System.out.println(99999);
         System.out.println(88888);
-        System.out.println(33333);
+        System.out.println("ttttt");
     }
 
     public static void f2() {
