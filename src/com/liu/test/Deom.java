@@ -16,6 +16,6 @@ public class Deom {
     public static void main(String[] args) {
         f1();
         f2();
-        System.out.println("bbbb");
+        System.out.println("cccc");
     }
 }
