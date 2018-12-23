@@ -18,5 +18,6 @@ public class Deom {
         f2();
         System.out.println("remote change 1");
         System.out.println("cccc");
+        System.out.println("remote master add 2");
     }
 }
