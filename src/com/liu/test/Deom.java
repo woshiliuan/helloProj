@@ -9,6 +9,7 @@ public class Deom {
     }
 
     public static void f2() {
+        System.out.println("remote master add f2");
     }
 
     public static void main(String[] args) {
