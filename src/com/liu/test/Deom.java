@@ -20,6 +20,7 @@ public class Deom {
         System.out.println("cccc");
         System.out.println("remote master add 2");
         System.out.println("local master add tt");
+        System.out.println("remote master add Deom something1");
         System.out.println("local master add Deom sm1");
     }
 }
