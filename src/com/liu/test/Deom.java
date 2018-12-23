@@ -14,6 +14,5 @@ public class Deom {
     }
 
     public static void main(String[] args) {
-        System.out.println("remote master add ttt");
     }
 }
