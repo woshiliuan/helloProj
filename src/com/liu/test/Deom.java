@@ -5,7 +5,7 @@ package com.liu.test;
  */
 public class Deom {
     public static  void f1() {
-        System.out.println("F");
+        System.out.println("remote master add FF");
     }
 
     public static void f2() {
