@@ -16,6 +16,6 @@ public class Deom {
     public static void main(String[] args) {
         System.out.println("master change 1");
         System.out.println("branch-to-rebase change 1");
-        System.out.println("master add 2");
+        System.out.println("branch-to-rebase change 2");
     }
 }
