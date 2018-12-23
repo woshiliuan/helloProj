@@ -15,5 +15,6 @@ public class Deom {
 
     public static void main(String[] args) {
         System.out.println("local master add 111");
+        System.out.println("local master add 222");
     }
 }
