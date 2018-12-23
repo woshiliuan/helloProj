@@ -18,5 +18,6 @@ public class Deom {
         System.out.println("branch-to-rebase change 1");
         System.out.println("branch-to-rebase change 2");
         System.out.println("remote master add line1");
+        System.out.println("remote master add line2");
     }
 }
