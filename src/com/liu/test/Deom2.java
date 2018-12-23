@@ -22,5 +22,6 @@ public class Deom2 {
 
     public static void main(String[] args) {
         f1(1,1);
+        System.out.println("remote master add Deom2 something1")
     }
 }
