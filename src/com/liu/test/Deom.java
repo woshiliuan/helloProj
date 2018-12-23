@@ -14,7 +14,7 @@ public class Deom {
     }
 
     public static void main(String[] args) {
-        System.out.println("master add 1");
+        System.out.println("master change 1");
         System.out.println("master add 2");
     }
 }
