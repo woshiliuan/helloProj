@@ -5,8 +5,7 @@ package com.liu.test;
  */
 public class Deom {
     public static  void f1() {
-        System.out.println("remote master add FF");
-        System.out.println("branch-to-rebase add HH");
+        System.out.println("A");
     }
 
     public static void f2() {
